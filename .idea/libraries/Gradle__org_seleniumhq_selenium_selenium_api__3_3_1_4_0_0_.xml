@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.seleniumhq.selenium:selenium-api:[3.3.1,4.0.0)">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/testng-5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$MAVEN_REPOSITORY$/testng-5.5.jar!/" recursive="false" />
+  </library>
+</component>
